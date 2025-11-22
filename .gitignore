@@ -1,0 +1,23 @@
+# .gitignore
+
+# Dependencies
+node_modules/
+venv/
+__pycache__/
+
+# Build Artifacts
+dist/
+build/
+*.r1cs
+*.wasm
+*.zkey
+*.ptau
+
+# Environment
+.env
+.DS_Store
+
+# Logs
+*.log
+
+

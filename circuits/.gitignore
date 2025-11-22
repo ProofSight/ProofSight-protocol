@@ -1,0 +1,19 @@
+# .gitignore
+
+# Dependencies
+node_modules/
+
+# Build
+build/
+dist/
+
+# Circuits
+*.r1cs
+*.sym
+*.wasm
+*.zkey
+*.ptau
+
+# OS
+.DS_Store
+
